@@ -1,0 +1,9 @@
+Lets disset the Rock Paper Scissor project
+
+1. This system needs to ask for an input from one of 3 options: Rock Paper Scissor
+2. Then the system throw a random option and play rock paper scissor
+
+Need: 
+1. A input prompt
+2. Input will initiate the function
+3. get a random output from the system
